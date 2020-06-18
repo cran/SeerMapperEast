@@ -4,7 +4,7 @@
 \title{\var{SeerMapper}-Supplemental 2000 Census Tract East States Boundary Datasets}
 \description{
  The \var{SeerMapperEast} package provides supplemental 2000 Census
- Tract boundary datasets for 20 states, PR, and DC, which are without Seer registries and  
+ Tract boundary datasets for 20 states (PR and DC included), which are without Seer registries and  
  are east of the Mississippi river for use with \var{SeerMapper} package. 
  
  The \var{SeerMapperWest} data only package contains the 2000 census
@@ -21,8 +21,8 @@
     \tabular{ll}{
       Package:  \tab SeerMapperEast\cr
       Type:     \tab Package\cr
-      Version:  \tab 1.2.2\cr
-      Date:     \tab 2019-04-12\cr
+      Version:  \tab 1.2.3\cr
+      Date:     \tab 2020-06-17\cr
       License:  \tab GPL-2\cr
       LazyLoad: \tab no\cr
     } 
@@ -74,9 +74,9 @@ boundary datasets for:
   }
 }  
 \author{
-Jim Pearson \email{jpearson0525@gmail.com}\cr 
-Maintainer: "Jim Pearson" \email{jpearson0525@gmail.com}\cr 
-Package compiled by "Jim Pearson" \email{jpearson0525@gmail.com}
+Jim Pearson \email{jbpearson353@gmail.com}\cr 
+Maintainer: "Fanni Zhang" \email{zhangf@imsweb.com}\cr 
+Package compiled by "Fanni Zhang" \email{zhangf@imsweb.com}
 }
 
 
