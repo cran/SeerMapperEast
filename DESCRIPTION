@@ -1,12 +1,12 @@
 Package: SeerMapperEast
 Type: Package
-Version: 1.2.3
-Date: 2020-06-17
-Title: Supplemental U.S. 2000 Census Tract Boundaries for 20 Eastern
-        States, District and Territory without Seer Registries for
-        'SeerMapper'
+Version: 1.2.4
+Date: 2020-06-22
+Title: Supplemental U.S. 2000 Census Tract Boundaries for 20 States,
+        District and Territory without Seer Registries that are East of
+        the Mississippi River for Use with 'SeerMapper' Package
 Author: Jim Pearson <jbpearson353@gmail.com> with data provided by U.S. Census Bureau
-Maintainer: Fanni Zhang <zhangf@imsweb.com>
+Maintainer: Joe Zou <zouj@imsweb.com>
 Depends: R (>= 3.6.0)
 Imports: sp
 Suggests:
@@ -21,6 +21,6 @@ LazyLoad: no
 BuildResaveData: yes
 ByteCompile: yes
 NeedsCompilation: no
-Packaged: 2020-06-17 14:31:48 UTC; zhangf10
+Packaged: 2020-06-23 13:17:34 UTC; zouj
 Repository: CRAN
-Date/Publication: 2020-06-18 11:00:17 UTC
+Date/Publication: 2020-06-23 15:40:09 UTC
